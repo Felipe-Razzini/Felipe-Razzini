@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Felipe Razzini</h2>
 <h3 align="center">A passionate full-stack developer based in Amsterdam</h3>
 
-- 🔭 I’m currently working on [Remotz](www.remotz.me)
+- 🔭 I’m currently working on [TheRemotz](https://github.com/Felipe-Razzini/TheRemotz)
 
 - 🌱 I’m currently learning **REACT**
 
