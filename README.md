@@ -1,5 +1,5 @@
-<h2>Hi 👋, I'm Felipe Razzini</h2>
-<h4">A passionate full-stack developer based in Amsterdam</h4>
+<h2 align="center">Hi 👋, I'm Felipe Razzini</h2>
+<h3 align="center">A passionate full-stack developer based in Amsterdam</h3>
 
 - 🔭 I’m currently working on [Remotz](www.remotz.me)
 
