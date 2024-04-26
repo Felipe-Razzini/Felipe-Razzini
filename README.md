@@ -1,9 +1,7 @@
 <h2 align="center">Hi 👋, I'm Felipe Razzini</h2>
 <h3 align="center">A passionate full-stack developer based in Amsterdam</h3>
 
-- 🔭 I’m currently working on [TheRemotz](https://github.com/Felipe-Razzini/TheRemotz)
-
-- 🌱 I’m currently learning **REACT**
+- 🔭 I’m currently developing websites with PHP, WordPress, JavaScript, and CSS. Also working on a few projects with React, Next.js and Typescript. 
 
 - 📫 How to reach me **feliperazzini95@gmail.com**
 
