@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **feliperazzini95@gmail.com**
 
+- ⚡My portfolio: https://felipe-razzini.netlify.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
