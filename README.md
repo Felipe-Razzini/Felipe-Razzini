@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Felipe Razzini</h2>
 <h3 align="center">A passionate full-stack developer based in Amsterdam</h3>
 
-- 🔭 I’m currently developing websites with PHP, WordPress, JavaScript, Next.js, and more. Also working on a few projects with Python. 
+- 🔭 I'm a Full Stack / Shopify Developer at Not Selling Liquid, a Shopify Plus Agency. I also developed websites with PHP, WordPress, JavaScript, Next.js, and more.
 
 - 📫 How to reach me **feliperazzini95@gmail.com**
 
